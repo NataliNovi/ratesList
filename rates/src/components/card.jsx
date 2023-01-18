@@ -25,8 +25,6 @@ function CardStyled (props) {
        console.log(classForCard)
 
     const [id, setId] = useState(props.id);
-
-//паша рома макар паша мама папа
    
    
     return (
